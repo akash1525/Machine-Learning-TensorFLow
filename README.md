@@ -25,7 +25,11 @@ cd ~/Tensorflow_learn/tf_4_poets/
 # test triangle
 python robotx_shapes/label_image.py robotx_shapes/shape_photos/triangle/n13879816_14.JPEG
 # test circle
-python robotx_shapes/label_image.py robotx_shapes/shape_photos/triangle/n03032811_27724.JPEG
+python robotx_shapes/label_image.py robotx_shapes/shape_photos/circle/n03032811_27724.JPEG
 # test cruciform
-python robotx_shapes/label_image.py robotx_shapes/shape_photos/triangle/n03032811_20080.JPEG
+python robotx_shapes/label_image.py robotx_shapes/shape_photos/cruciform/n03135532_15488.JPEG
+# test testing cases
+python robotx_shapes/label_image.py robotx_shapes/test_photos/circle0.jpg
+python robotx_shapes/label_image.py robotx_shapes/test_photos/cross0.jpg
+python robotx_shapes/label_image.py robotx_shapes/test_photos/triangle0.jpg
 ```
