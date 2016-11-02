@@ -12,6 +12,7 @@ prerequisite: *tensorflow*, *tensorflow for poets*, `circle`, `cruciform`, `tria
 
 ```bash
 # training
+source ~/.bash_profile
 cd ~/Tensorflow_learn/tensorflow/
 python tensorflow/examples/image_retraining/retrain.py \
 --bottlenect_dir=../tf_4_poets/robotx_shapes/bottlenecks \
